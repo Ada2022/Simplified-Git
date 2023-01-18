@@ -122,7 +122,7 @@ class File:
 
 
 if __name__ == '__main__':
-    repo_path = '/home/ada/Desktop/Class/Career/Follow Up/Companies that give OA/ProntoAI'
+    repo_path = '/home/ada/Desktop/Simplified-Git/src'
     git = Git(repo_path)
     git.init()
     git.active_branch()
