@@ -10,7 +10,7 @@
 
 The project aims to implement a simplified git using python, this code mainly realizes the following functions:
 
-### ### Basic Function
+### Basic Function
 
 1. git init : initialize the git
 
@@ -111,7 +111,7 @@ The project aims to implement a simplified git using python, this code mainly re
 1. clone the repository
    
    ```shell
-   python SimplifiedGit.py --git_dir path/to/git/dir --blame_Rufus
+   git clone https://github.com/Ada2022/Simplified-Git.git
    ```
 
 2. cd to source code
