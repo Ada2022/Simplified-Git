@@ -12,7 +12,7 @@ The project aims to implement a simplified git using python, this code mainly re
 
 ### Basic Function
 
-1. git init : initialize the git
+1. git init: initialize the git
 
 2. git branch: create a new branch
 
@@ -122,24 +122,22 @@ The project aims to implement a simplified git using python, this code mainly re
 
 3. basic usage test examples
    
-   git init
+   - git init
    
    ![](./docu/example1.png)
    
-   git active_branch/git branch/git checkout
+   - git active_branch/git branch/git checkout
    
    ![](./docu/example2.png)
    
-   git status/git add/git commit/git log/git local_changes
+   - git status/git add/git commit/git log/git local_changes
    
    ![](./docu/example3.png)
    
-   git recent_commit/git blame_Rufus
+   - git recent_commit/git blame_Rufus
    
    ![](./docu/example4.png)
 
 ### Assignment Showcase
 
 ![](./docu/example5.png)
-
-
