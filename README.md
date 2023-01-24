@@ -20,7 +20,7 @@ The project aims to implement a simplified git using python, this code mainly re
 
 4. git add: track the specified files
 
-5. git commit: commit the tracked files with comments
+5. git commit: commit the added files with comments
 
 6. git status: show the condition of each file
 
@@ -122,8 +122,24 @@ The project aims to implement a simplified git using python, this code mainly re
 
 3. basic usage test examples
    
-   pending
+   git init
+   
+   ![](./docu/example1.png)
+   
+   git active_branch/git branch/git checkout
+   
+   ![](./docu/example2.png)
+   
+   git status/git add/git commit/git log/git local_changes
+   
+   ![](./docu/example3.png)
+   
+   git recent_commit/git blame_Rufus
+   
+   ![](./docu/example4.png)
 
 ### Assignment Showcase
 
-pending
+![](./docu/example5.png)
+
+
